@@ -17,8 +17,8 @@ To use this study guide you can review the notes in each section. For a suggesti
 
 ## Credits
 
--Sam Barsuhn
--U of M Coding Bootcamp
+Sam Barsuhn, U of M Coding Bootcamp
+
 
 ## License
 
